@@ -1,19 +1,9 @@
 {
   "notes": [
     {
-      "title": "welcome ",
-      "text": "satwinder",
-      "id": "0"
-    },
-    {
-      "title": "jkhkjhkj",
-      "text": "lkjkllljj",
-      "id": "2"
-    },
-    {
-      "title": "oljljkklklj",
-      "text": "jklhhkhkhkk",
-      "id": "2"
+      "title": "Welcome",
+      "text": "This is my first express app.",
+      "id": "7ad5a226-e07a-4eff-8464-94b4474d9e07"
     }
   ]
 }
