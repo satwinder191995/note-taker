@@ -43,7 +43,7 @@ For more information on license types, please reference to this website for addi
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
   ## Website design image
-  ![This is website image](/assets/images/noteTaker.png)
+  ![This is website image](/public/assets/images/noteTaker.png)
 
   ## Heroku live app link
   [Heroku app link](https://satwinder-note.herokuapp.com/)
