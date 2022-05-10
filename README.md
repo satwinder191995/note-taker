@@ -46,6 +46,6 @@ For more information on license types, please reference to this website for addi
   ![This is website image](/assets/images/noteTaker.png)
 
   ## Heroku live app link
-  [Heroku app link]()
+  [Heroku app link](https://satwinder-note.herokuapp.com/)
 
 
